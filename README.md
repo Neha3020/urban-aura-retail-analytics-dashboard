@@ -15,8 +15,8 @@ UrbanAura Retail Analytics Dashboard is a Power BI project built for a fictional
 
 ## Customer & Product Insights Dashboard
 
-![Customer Dashboard]((https://github.com/Neha3020/urban-aura-retail-analytics-dashboard/blob/main/urbanaura%20project%20ss2.PNG)
-)
+![Customer Dashboard](https://github.com/Neha3020/urban-aura-retail-analytics-dashboard/blob/main/urbanaura%20project%20ss2.PNG)
+
 
 # Tech Stack 
 Power BI Desktop – Dashboard Development & Visualization
