@@ -51,7 +51,7 @@ Track return rates and delivery performance
 Evaluate the effectiveness of discounts
 Support data-driven decision-making
 
-## Goal of the Dasgboard
+## Goal of the Dashboard
 The dashboard was designed to provide a comprehensive view of business performance by answering key questions:
 
 How much revenue is being generated?
