@@ -123,47 +123,51 @@ Visual: Scatter Plot
 Evaluates the relationship between discount percentages and sales performance to optimize promotional strategies.
 
 
-## Business Impact & Insights
+## 🚀 Business Impact & Insights
 
-📊 Revenue Performance
-Generated over ₹15 Million in sales revenue.
-Average Order Value exceeded ₹7.6K, indicating strong customer spending.
-🏆 Category Performance
-Clothing slightly outperformed Home Decor in total sales.
-Both categories contributed significantly to overall revenue.
+### 📊 Revenue Performance
 
-📅 Seasonal Trends
-Peak sales were observed during specific months, indicating seasonal buying patterns and promotional opportunities.
+* Generated **₹15.22M** in total sales revenue across 2,000 retail transactions.
+* Achieved an **Average Order Value (AOV) of ₹7.61K**, indicating strong customer spending behavior.
 
-👥 Customer Insights
-Customers aged 36–45 years contributed the highest revenue.
-The 26–35 age group emerged as the second-largest customer segment.
+### 🏆 Category Performance
 
-⭐ Product Satisfaction
-Premium Home Decor products received the highest customer ratings.
-Highly rated products indicate strong customer acceptance and quality perception.
+* **Clothing** emerged as the highest-performing category by revenue.
+* **Home Decor** also contributed significantly, resulting in a balanced sales distribution across categories.
 
-🎨 Product Preferences
-Neutral colors such as Black, White, Grey, and Beige were the most popular choices among customers.
+### 📅 Seasonal Trends
 
-🔄 Returns Management
-Certain subcategories showed higher return volumes, revealing opportunities to improve product quality, sizing accuracy, and delivery processes.
+* Monthly sales analysis revealed peak performance during specific periods of the year.
+* Seasonal demand patterns can support future promotional planning and inventory optimization.
 
-💰 Discount Optimization
-Moderate discounts (10–20%) generated strong sales performance.
-Excessive discounting did not necessarily lead to proportionally higher sales.
+### 👥 Customer Insights
 
-## 💡 Skills Demonstrated
+* Customers aged **36–45 years** generated the highest share of revenue.
+* The **26–35 years** segment was the second-largest contributor, highlighting key target demographics.
 
-- Power BI
-- DAX
-- Power Query
-- Data Modeling
-- Data Visualization
-- Business Intelligence
-- Retail Analytics
-- Dashboard Design
-- KPI Development
+### ⭐ Product Satisfaction
+
+* Premium Home Decor products received the highest average customer ratings.
+* Strong product ratings indicate positive customer experience and product acceptance.
+
+### 🎨 Product Preferences
+
+* Neutral colors such as **Black, White, Grey, and Beige** were the most preferred among customers.
+* Customer color preferences can support merchandising and inventory decisions.
+
+### 🔄 Returns Management
+
+* Certain product subcategories recorded higher return volumes than others.
+* These insights can help improve product quality, sizing accuracy, and fulfillment processes.
+
+### 💰 Discount Optimization
+
+* Discounts in the **10–20% range** delivered the strongest sales performance.
+* Higher discount levels did not produce proportionate revenue growth, highlighting opportunities for optimized promotional strategies.
+
+## Skills Demonstrated
+
+Power BI • DAX • Power Query • Data Modeling • Business Intelligence • Dashboard Design • Data Visualization • Retail Analytics • Storytelling with Data
 
 ## 🚀 Project Outcome
 
