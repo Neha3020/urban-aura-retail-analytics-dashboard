@@ -4,9 +4,10 @@
 
 📊 Sales Analysis | Customer Insights | Product Performance | Return Analysis
 
+# Dashboard Preview
+
 UrbanAura Retail Analytics Dashboard is a Power BI project built for a fictional Fashion & Home Decor e-commerce brand. The dashboard provides insights into sales performance, customer behavior, product trends, discounts, ratings, and returns through interactive visualizations and KPI tracking. It helps stakeholders make data-driven decisions to improve business performance and customer satisfaction.
 
-# Dashboard Preview
 
 ## Sales Overview Dashboard
 
@@ -14,7 +15,8 @@ UrbanAura Retail Analytics Dashboard is a Power BI project built for a fictional
 
 ## Customer & Product Insights Dashboard
 
-![Customer Dashboard](Dashboard Screenshots/Customer_Product_Insights.png)
+![Customer Dashboard]([Dashboard Screenshots/Customer_Product_Insights.png](https://github.com/Neha3020/urban-aura-retail-analytics-dashboard/blob/main/urbanaura%20project%20ss2.PNG)
+)
 
 Tech Stack (Tools Used)
 Power BI Desktop – Dashboard Development & Visualization
@@ -26,88 +28,17 @@ Data Source
 
 Source Type: Self-generated Retail Dataset (Excel)
 
-Dataset Details:
+## Project Summary
 
-Brand: UrbanAura (Fictional E-commerce Brand)
-Industry: Fashion & Home Decor
-Records: 2,000 Transactions
-Includes:
-Sales Data
-Customer Information
-Product Details
-Discounts
-Ratings
-Payment Modes
-Delivery Status
-Geographic Information
-Order Dates
-Key Features
-Sales & Revenue Analysis
-Customer Behavior Insights
-Product Performance Tracking
-Return Rate Analysis
-Discount Effectiveness Evaluation
-Interactive Filters & Drill-down Analysis
-Executive KPI Monitoring
-Topics / Tags for GitHub
-powerbi
-data-analytics
-business-intelligence
-dashboard
-data-visualization
-dax
-power-query
-retail-analytics
-ecommerce-analytics
-sales-dashboard
-customer-insights
-powerbi-project
+| Metric | Value |
+|----------|---------|
+| Total Sales | ₹15.22M |
+| Total Orders | 2,000 |
+| Average Order Value | ₹7.61K |
+| Total Customers | 2,000 |
+| Return Rate | 25% |
 
-These sections are ideal for the About and README sections of your GitHub repository.
-
-I want the github repositry 
-short description of urbanaura project in 2 to 3 lines
- tech stack (tools used ) data source
-features / highlights 
-- business problem 
-- goal of the dashboard 
--walk through of key visuals (breifly)
-- business impact & insights 
-
- 
-
-🛍️ UrbanAura Retail Analytics Dashboard
-📌 Short Description
-
-UrbanAura Retail Analytics Dashboard is a Power BI project developed for a fictional Fashion & Home Decor e-commerce brand. The dashboard analyzes sales performance, customer behavior, product trends, discounts, ratings, and returns to help stakeholders make data-driven business decisions through interactive visualizations and KPIs.
-
-🛠️ Tech Stack (Tools Used)
-Power BI Desktop – Dashboard Development & Visualization
-Power Query – Data Cleaning & Transformation
-DAX (Data Analysis Expressions) – KPI & Measure Creation
-Microsoft Excel – Dataset Storage & Management
-GitHub – Project Documentation & Portfolio Showcase
-📂 Data Source
-Source Type:
-
-Self-generated Retail Dataset (Excel)
-
-Dataset Overview:
-Brand: UrbanAura (Fictional Brand)
-Industry: Fashion & Home Decor E-commerce
-Records: 2,000 Transactions
-Data Fields:
-Customer Information
-Product Details
-Sales & Revenue
-Discounts
-Ratings
-Payment Modes
-Delivery Status
-Geographic Data
-Order Dates
-✨ Features / Highlights
-1️⃣ Business Problem
+## 🎯 Business Problem
 
 E-commerce businesses generate large volumes of transactional data but often struggle to convert it into actionable insights.
 
@@ -119,8 +50,8 @@ Understand customer purchasing behavior
 Track return rates and delivery performance
 Evaluate the effectiveness of discounts
 Support data-driven decision-making
-2️⃣ Goal of the Dashboard
 
+## Goal of the Dasgboard
 The dashboard was designed to provide a comprehensive view of business performance by answering key questions:
 
 How much revenue is being generated?
@@ -129,7 +60,8 @@ Which customer segments contribute the most sales?
 How do discounts impact purchasing behavior?
 Which products have higher return rates?
 What are the most preferred colors, sizes, and payment methods?
-3️⃣ Walkthrough of Key Visuals
+ 
+## Walkthrough of Key Visuals
 📈 Sales Trend Analysis
 
 Visual: Line Chart
@@ -190,32 +122,49 @@ Visual: Scatter Plot
 
 Evaluates the relationship between discount percentages and sales performance to optimize promotional strategies.
 
-4️⃣ Business Impact & Insights
+
+## Business Impact & Insights
+
 📊 Revenue Performance
 Generated over ₹15 Million in sales revenue.
 Average Order Value exceeded ₹7.6K, indicating strong customer spending.
 🏆 Category Performance
 Clothing slightly outperformed Home Decor in total sales.
 Both categories contributed significantly to overall revenue.
+
 📅 Seasonal Trends
 Peak sales were observed during specific months, indicating seasonal buying patterns and promotional opportunities.
+
 👥 Customer Insights
 Customers aged 36–45 years contributed the highest revenue.
 The 26–35 age group emerged as the second-largest customer segment.
+
 ⭐ Product Satisfaction
 Premium Home Decor products received the highest customer ratings.
 Highly rated products indicate strong customer acceptance and quality perception.
+
 🎨 Product Preferences
 Neutral colors such as Black, White, Grey, and Beige were the most popular choices among customers.
+
 🔄 Returns Management
 Certain subcategories showed higher return volumes, revealing opportunities to improve product quality, sizing accuracy, and delivery processes.
+
 💰 Discount Optimization
 Moderate discounts (10–20%) generated strong sales performance.
 Excessive discounting did not necessarily lead to proportionally higher sales.
-🚀 Project Outcome
 
-The UrbanAura Retail Analytics Dashboard transforms raw retail transaction data into meaningful business insights, enabling stakeholders to monitor performance, improve customer experience, optimize inventory decisions, and support strategic growth through data-driven decision-making.
+## 💡 Skills Demonstrated
 
-Skills Demonstrated
+- Power BI
+- DAX
+- Power Query
+- Data Modeling
+- Data Visualization
+- Business Intelligence
+- Retail Analytics
+- Dashboard Design
+- KPI Development
 
-Power BI • DAX • Power Query • Data Modeling • Business Intelligence • Dashboard Design • Data Visualization • Retail Analytics • Storytelling with Data
+## 🚀 Project Outcome
+
+The dashboard provides a centralized view of sales, customers, products, and operational metrics, enabling business users to identify growth opportunities, monitor performance, and make data-driven decisions.
